@@ -1,0 +1,19 @@
+{
+  "name": "ezybuy",
+  "version": "1.0.0",
+  "description": "Mock E-Commerce backend using Express.js for EzyBuy project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Saksham Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
